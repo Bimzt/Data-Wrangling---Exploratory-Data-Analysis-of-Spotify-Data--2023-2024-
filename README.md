@@ -10,11 +10,11 @@ Objective: This project aims to merge, clean, and analyze popular Spotify track 
 2. System Requirements
 Ensure your Python environment has the following libraries installed:
 
-pandas: For data manipulation.
+pandas for data manipulation.
 
-numpy: For numerical operations.
+numpy for numerical operations.
 
-matplotlib & seaborn: For data visualization.
+matplotlib & seaborn for data visualization.
 
 Required input files (must be in the same directory as the script):
 
